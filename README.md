@@ -1,6 +1,7 @@
 # Automated-Detection-of-Joint-Attention-and-Mutual-Gaze-in-Free-Play-Parent-Child-Interactions
 ## face tracking
 ### face detection
+采用了[LAEO-Net++](https://github.com/AVAuco/laeonetplus)中的head detection。
 ### fae tracking
 ### interpolate
 ## objet detection
