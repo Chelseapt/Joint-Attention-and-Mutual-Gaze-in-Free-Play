@@ -1,4 +1,4 @@
-# Automated-Detection-of-Joint-Attention-and-Mutual-Gaze-in-Free-Play-Parent-Child-Interactions
+# Camera-based Assessment of Gendered Toy Preference in Free-Play Parent-Child Interactions
 
 This repository focuses on detecting joint attention and mutual gaze in parent-child interactions during free play. We leverage advanced computer vision techniques to achieve this.
 
